@@ -22,12 +22,14 @@
     <setting file="file://$PROJECT_DIR$/SpawnObjects.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LevelGeneration.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RoomType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SpawnRooms.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/RoomType.cs" />
-      <option value="$PROJECT_DIR$/LevelGeneration.cs" />
       <option value="$PROJECT_DIR$/SpawnObjects.cs" />
+      <option value="$PROJECT_DIR$/SpawnRooms.cs" />
+      <option value="$PROJECT_DIR$/LevelGeneration.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tGvJPR3VXqHVqxrsWymLdGnHLQ" />
@@ -51,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622408174212</updated>
-      <workItem from="1622408187264" duration="5909000" />
+      <workItem from="1622408187264" duration="7981000" />
     </task>
     <servers />
   </component>
